@@ -4,7 +4,7 @@
 	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>13.0</miniOS>
+			<miniOS>9.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -13,13 +13,14 @@
 	</dependencies>
 	<shortDescription>AirPods case low battery notifications</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
+		<description>Get a notification on your phone when your AirPods case falls below a specified percentage.</description>
+		<description>You can customize what percentage the case has to be below before notifying you and the delay between the notifications.</description>
+		<description>Note: Since AirPods cases themselves do not have Bluetooth capabilities, in order for this tweak to work, the AirPods must be in the case. As soon as the phone detects the case, it will notify you if the battery is low enough.</description>
+		<!--<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
 		]]>
-		</description>
+		</description>-->
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
