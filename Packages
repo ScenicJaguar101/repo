@@ -5,10 +5,10 @@ Maintainer: Jackson Sykes
 Installed-Size: 352
 Depends: mobilesubstrate, com.cokepokes.libnotifications
 Filename: ./debs/me.scenicjaguar101.tweak.airpodscaselowbattery_1.0.0-1_iphoneos-arm.deb
-Size: 30788
-MD5sum: defe2a9dc9a530c16440d6e974f02640
-SHA1: fec8026fa1efcaae00ff37d53d61df2d2314a002
-SHA256: 0cc22851311d8da4edd9470a688b30631e9b4d2659adfcccc39b1557465b29a6
+Size: 32062
+MD5sum: 661ccb090c52e9bfb70bf8226b8266ec
+SHA1: c3b003b35be2f47faf10aa81d09b01c7e9a208d0
+SHA256: 9367d276e8701689e0d0d512b85cf4e3771edf23e7bf0692858040f5010689a3
 Section: Tweaks
 Description: Notify when AirPods case has low battery
 Author: Jackson Sykes
