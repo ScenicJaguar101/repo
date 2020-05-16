@@ -3,7 +3,7 @@ Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: Jackson Sykes
 Installed-Size: 352
-Depends: mobilesubstrate libnotifications
+Depends: mobilesubstrate, libnotifications
 Filename: ./debs/me.scenicjaguar101.tweak.airpodscaselowbattery_1.0.0-1_iphoneos-arm.deb
 Size: 30780
 MD5sum: 3b0a9f271688c155d6b4dc6fab97d761
