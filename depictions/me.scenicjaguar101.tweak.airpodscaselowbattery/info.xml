@@ -24,11 +24,11 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>Example notification</description>
+			<image>notification.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<description>Example settings</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
 	</screenshots>
